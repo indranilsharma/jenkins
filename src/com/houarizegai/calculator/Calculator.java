@@ -174,8 +174,10 @@ public class Calculator {
                     addWrite = false;
                 } else {
                     opt = '/';
+                    System.out.prinln("test");
                 }
-        });
+        }); 
+
         window.add(btnDiv);
 
         btn7 = new JButton("7");
