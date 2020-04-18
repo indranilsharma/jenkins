@@ -174,7 +174,7 @@ public class Calculator {
                     addWrite = false;
                 } else {
                     opt = '/';
-                    System.out.prinln("test");
+                    System.out.prinln("test ");
                 }
         }); 
 
