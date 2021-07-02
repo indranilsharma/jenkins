@@ -1,1 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 added rebase purpose 
+=======
+edited from main branch
+>>>>>>> 2bf0e1e (text file change from local)
+=======
+file was edited from  newFeature-0.2 branch 
+ 
+>>>>>>> bc988e9 (Update test.txt)
